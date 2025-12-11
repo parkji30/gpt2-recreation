@@ -1,3 +1,3 @@
-This is a project done by me to recreate GPT-2 to the best of my abilities, using the TikToken dataset.
+This is my Attempt to beating the GPT 3.5 model that took the world by storm.
 
-I will attempt at recreating GPT-oss (that is << 120 B) based on the research paper OpenAI provided in future iterations.
+For my pretraining dataset, I will rely on the nemotron dataset, accessed through the huggingface API.
